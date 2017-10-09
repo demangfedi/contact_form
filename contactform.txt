@@ -1,0 +1,22 @@
+<div class="separator" style="clear: both; text-align: center;">
+</div>
+<div class="separator" style="clear: both; text-align: center;">
+</div>
+<span style="font-family: arial, helvetica, sans-serif;">Please fill out the form below to contactus. If there are no obstacles and other busyness, we will immediately respond quickly to the message you send.</span></div>
+<div dir="ltr">
+<span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">
+</span><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">Silahkan isi form di bawah ini untuk menghubungi kami. Jika tidak ada halangan dan kesibukan lainnya, kami akan langsung merespon dengan cepat pesan yang Anda kirimkan.</span>
+<span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">
+</span> 
+<form name="contact-form">
+<input id="ContactForm1_contact-form-name" name="name" placeholder="Name" size="30" type="text" value="" />
+
+<input id="ContactForm1_contact-form-email" name="email" placeholder="Email" size="30" type="text" value="" />
+
+<textarea cols="25" id="ContactForm1_contact-form-email-message" name="email-message" placeholder="Message" rows="5"></textarea>
+
+<input id="ContactForm1_contact-form-submit" type="button" value="Kirim" />
+
+</form>
+</div>
+</div>
